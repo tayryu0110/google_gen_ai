@@ -27,7 +27,7 @@ The dataset includes synthetic patient records containing:
 
 ### 2. Document Embedding
 - Embedded the cleaned records using Gemini's `text-embedding-004` model.
-- 
+
 ### 3. Chroma Vector Database
 - Stored all embedded patient records in a ChromaDB.
 
